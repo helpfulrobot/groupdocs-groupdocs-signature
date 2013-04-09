@@ -14,7 +14,7 @@ class groupdocsSignature_Result extends ViewableData {
 	}
 	
 	public function forTemplate() {
-		return "<iframe src='https://apps.groupdocs.com/signature/forms/SignEmbed/" . $this->guid . "?&referer=silverstripe/1.0.0' frameborder='0' width='" . $this->width . "' height='" . $this->height ."'></iframe>";
+		return "<iframe src='https://apps.groupdocs.com/signature2/forms/SignEmbed/" . $this->guid . "?&referer=silverstripe/1.0.0' frameborder='0' width='" . $this->width . "' height='" . $this->height ."'></iframe>";
 	}
 	
 }
