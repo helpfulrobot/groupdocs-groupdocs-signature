@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-signature",
+	  "description": "The GroupDocs Signature plugin for SilverStripe allows you to embed signature forms to your websites and helps collect online signatures of your partners easily.",
+	  "type": "silverstripe-module",
+	  "homepage": "http://groupdocs.com/apps/signature",
+	  "keywords": ["silverstripe", "online signature service"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		
